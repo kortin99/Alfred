@@ -1,0 +1,2 @@
+# alfred
+alfred配置
