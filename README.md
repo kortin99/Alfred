@@ -1,5 +1,6 @@
 # Alfred
 自用 Alfred 主题和 workflow 推荐
+> 我现在使用 [Raycast](https://www.raycast.com/) 替代了 Alfred，仓库不再更新。只是因为作为前端工程师 Raycast 更适合我，但是 Alfred 是一个强大且自定义程度很高的工具，仍然推荐大家使用。
 
 ## Usage
 下载当前仓库到本地，双击需要的主题或 workflow，即可直接唤起 Alfred 进行安装。
